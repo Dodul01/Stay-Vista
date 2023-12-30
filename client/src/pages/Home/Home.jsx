@@ -5,6 +5,7 @@ const Home = () => {
   return (
     <div>
       {/* Category Section */}
+      
       {/* Rooms Section */}
       <Rooms />
     </div>
